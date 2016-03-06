@@ -1,5 +1,5 @@
 package com.asia.bala_he.tetris;
-//#bah je test
+//#bah je teste
 import static org.junit.Assert.*;
 
 import org.junit.Test;
